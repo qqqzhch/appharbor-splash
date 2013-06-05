@@ -4,10 +4,10 @@
 
 <html>
 <head>
-	<title>AppHarbour - sign up for our private beta</title>
+	<title>AppHarbour - sign up for our private beta!!!!!!!!!!!!!!!!!!!!!!!!</title>
 	<style>
 		iframe { margin: 0 auto; }
-	</style>
+	</style>     
 </head>
 <body>
 	<div>
